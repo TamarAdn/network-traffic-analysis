@@ -1,3 +1,0 @@
-2025-01-10 11:26:11,233 - INFO - Starting analysis of network_traffic.pcap
-2025-01-10 11:26:11,233 - ERROR - Error during traffic analysis: This event loop is already running
-2025-01-10 11:26:11,233 - ERROR - Analysis failed: This event loop is already running
